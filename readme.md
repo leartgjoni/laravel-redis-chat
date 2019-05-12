@@ -12,7 +12,7 @@ The application sends messages in real-time using socket.io as well as keeps the
 
 Keep in mind that you need redis-server installed on your machine for the application to work.
 
-# Demo
-http://chat-laravel-redis.lersoft.com
+# Example
+[![Watch the video](https://img.youtube.com/vi/QJiZmAAAXPU/0.jpg)](https://www.youtube.com/watch?v=QJiZmAAAXPU)
 
 # Don't forget to star this repo ;)
